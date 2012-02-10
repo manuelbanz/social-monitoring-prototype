@@ -1,5 +1,4 @@
-This tool is a prototype of a social media monitoring tool. It was developed to check if its possible
-to build a monitoring tool based on piwik.
+This tool is a prototype of a social media monitoring tool. It was developed to check if its possible to build a monitoring tool based on piwik.
 
 Therefore the tool consists of 2 modules:
  1. A Fetcher for collecting data from social media accounts 

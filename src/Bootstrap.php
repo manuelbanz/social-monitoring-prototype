@@ -4,17 +4,6 @@
  *
  */
 
-//require_once dirname(__FILE__) . '/functions.php';
-
-/**
- * Bootstrap Class
- *
- * @category    lib
- * @package     Default
- * @copyright   Copyright (c) 2010 exitb GmbH (http://exitb.de)
- * @license     http://exitb.de/license/default     Default License
- * @version     $Id$
- */
 class Bootstrap
 {
 
