@@ -1,3 +1,5 @@
+## A Social Media Monitoring Prototype based on Piwik
+
 This tool is a prototype of a social media monitoring tool. It was developed to check if its possible to build a monitoring tool based on piwik.
 
 Therefore the tool consists of 2 modules:
